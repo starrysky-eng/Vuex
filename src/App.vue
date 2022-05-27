@@ -4,11 +4,10 @@
 
 <script>
 import Kingaku from "./components/Kingaku.vue";
-
 export default {
   components: {
     Kingaku,
-  }
+  },
 };
 </script>
 
